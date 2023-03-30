@@ -24,4 +24,8 @@
     <a href="https://medium.com/@elhammth/pure-functions-in-javascript-6fa872af5f8b">Pure Functions in JavaScript
 </a>
   </li>
+    <li>
+    <a href="[https://medium.com/@elhammth/pure-functions-in-javascript-6fa872af5f8b](https://medium.com/@elhammth/composition-api-best-practices-vue-3-e92ac11c9c22)">composition API Best Practices (vue 3)
+</a>
+  </li>
 </ul>
