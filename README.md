@@ -9,9 +9,6 @@
     <a href="https://medium.com/@elhammth/demonstrating-recursion-through-call-stack-game-c46db38cd4c0">Demonstrating Recursion through call stack game</a>
   </li>
   <li>
-    <a href="https://medium.com/@elhammth/maybe-you-dont-need-a-devops-person-try-github-actions-f8d5a3a0e574">Maybe You Don’t Need a Devops Person, Try Github Actions!</a>
-  </li>
-  <li>
     <a href="https://medium.com/@elhammth/pure-functions-in-javascript-6fa872af5f8b">Pure Functions in JavaScript
 </a>
   </li>
