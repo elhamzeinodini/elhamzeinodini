@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Elham, Web Developer from <b>Tehran</b>.</p>
+<p>Welcome to my page!.</p>
 
 <h3>My latest posts on MEDIUM:</h3>
 <ul>
