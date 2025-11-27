@@ -38,11 +38,5 @@ Welcome to my GitHub! I’m a passionate **Front-End Developer** who loves craft
 
 ---
 
-## 📬 Connect With Me
-- 💼 LinkedIn: **[linkedin.com/in/elhamzeinodini](#)**
-- 📧 Email: **elhammth@gmail.com**
-
----
-
 ## ⭐ Support
 If you like my work, consider giving my repositories a **star ⭐** — it means a lot!
